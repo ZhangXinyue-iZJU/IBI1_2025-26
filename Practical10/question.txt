@@ -1,0 +1,3 @@
+Question: What is the distribution of DALYs across all countries in 2019?
+Line number in dalys.py: 78
+Result discussion: The distribution of DALYs in 2019 is highly unequal across countries. The boxplot shows a strongly right‑skewed distribution, meaning most countries have relatively low disease burden, while a small number of countries have extremely high DALYs values. This pattern is consistent with expectations because low‑ and middle‑income countries generally carry a much higher disease burden than high‑income countries.
