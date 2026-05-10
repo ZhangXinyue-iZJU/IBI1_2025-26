@@ -1,0 +1,9 @@
+Feedback Response for IBI1 Summative Portfolio
+I have carefully reviewed the formative feedback from Week 3, Week 4, and Week 5.
+
+Changes made based on feedback:
+1. Week 3: The only feedback was that commit messages were not informative. I have revised my commit habits and will use clear, descriptive commit messages for all GitHub updates.
+2. Week 4: All tasks were completed correctly (23/23). No changes needed.
+3. Week 5: All tasks were completed correctly (24/24). No changes needed.
+
+All code files run correctly, all plots are well labelled, and all portfolio requirements are fulfilled.
